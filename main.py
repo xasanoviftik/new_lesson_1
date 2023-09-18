@@ -1,2 +1,2 @@
 print("Hello the world!")
-print("Hi, Iftik")kjafnakjfkafhwr
+print("Hi, Iftik")
